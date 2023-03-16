@@ -1,0 +1,22 @@
+.bigred {
+  font-family:"Courier New";
+  font-style: italic;
+  font-size: xx-large;
+  color: red;
+ }
+
+ body { place-items: unset !important;
+ }
+ .card {
+  margin-left: 2vw;
+  margin-top: 10vh !important;
+  width: 93vw;
+  }
+ @media only screen and (max-width: 600px) {
+  .card {
+  margin-left: 2vw;
+  margin-top: 10vh !important;
+  width: 93vw;
+  }
+ }
+ 
